@@ -148,6 +148,7 @@ entrypoints==0.4
 et_xmlfile==2.0.0
 etils==1.12.0
 etuples==0.3.9
+evaluate==0.4.3
 execnb==0.1.14
 Farama-Notifications==0.0.4
 fastai==2.7.18
@@ -169,7 +170,7 @@ fonttools==4.56.0
 fqdn==1.5.1
 frozendict==2.4.6
 frozenlist==1.5.0
-fsspec==2025.3.2
+fsspec==2024.12.0
 funcy==2.0
 fury==0.12.0
 future==1.0.0
